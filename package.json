@@ -1,0 +1,19 @@
+{
+  "name": "apphub-simple-server",
+  "version": "0.1.0",
+  "description": "AppHub reference server.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AppHubPlatform/apphub-server.git"
+  },
+  "author": "AppHub <support@apphub.io>)",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/AppHubPlatform/apphub-server/issues"
+  },
+  "homepage": "https://github.com/AppHubPlatform/apphub-server",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
